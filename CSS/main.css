@@ -2,3 +2,12 @@ nav {
   background-color: #055A6B;
   color: #fff;
 }
+
+#featured img {
+ height: 300px;
+object-fit: cover;
+}
+
+#h1 {
+  font-size: 50px;
+}
